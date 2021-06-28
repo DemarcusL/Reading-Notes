@@ -1,5 +1,6 @@
-<h1>Reading-Notes</h1>
-<h1>Introduction</h1>
+<h2>Reading-Notes</h2>
+
+Introduction
 Hello, this is Deamrcus L and This is where I will take notes ! Here is [My Github Profile](https://github.com/DemarcusL)
 
 <h3>
