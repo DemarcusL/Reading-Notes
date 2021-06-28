@@ -1,7 +1,7 @@
 <h2>Reading-Notes</h2>
 
 Introduction
-Hello, this is Deamrcus L and This is where I will take notes ! Here is [My Github Profile](https://github.com/DemarcusL)
+Hello, this is Deamrcus Lester and This is where I will take notes ! Here is [My Github Profile](https://github.com/DemarcusL).
 
 <h3>
 I see growth mindset as I can improve in anything I can do and work at.
