@@ -1,6 +1,6 @@
 <h1>Reading-Notes</h1>
 <h1>Introduction</h1>
-Hello, this is Deamrcus L and This is where I will take notes ! Here is 
+Hello, this is Deamrcus L and This is where I will take notes ! Here is [My Githud Profile](http://githud.com/DemarcusL)
 
 <h3>
 I see growth mindset as I can improve in anything I can do and work at.
@@ -13,5 +13,5 @@ My notes also reflect this cause I listed on paper Mindset is everything, you ca
 <Br> 
 I will keep learning new things even if u cant understand the topic like I  do now. I will ask for others methods and inputs to see things in a new way. I will keep growing!
 </h3> 
-[My Github Profile](https://github.com/DemarcusL)
+
  
