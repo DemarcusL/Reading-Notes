@@ -1,6 +1,6 @@
 <h1>Reading-Notes</h1>
 <h1>Introduction</h1>
-<h2>Hello, this is Deamrcus L and This is where I will take notes !</h2>
+<h2>Hello, this is Deamrcus L and This is where I will take notes ! Here is My Github Profile </h2>
 
 <h3>  
 I see growth mindset as I can improve in anything I can do and work at.
