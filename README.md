@@ -13,6 +13,4 @@ My notes also reflect this cause I listed on paper Mindset is everything, you ca
   
 <Br> 
 I will keep learning new things even if u cant understand the topic like I  do now. I will ask for others methods and inputs to see things in a new way. I will keep growing!
-</h3> 
-
- 
+</h3>
