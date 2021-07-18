@@ -1,4 +1,3 @@
-<!DOCTYPE html>
      <html>
          <head>
              <title> 
@@ -74,18 +73,7 @@ selects every single element on the webpage
 margin: 0;
 }
 ```
-     </p>
-
-
 </p>
 </body>
-
-  
-
-
-
-
-
-
 
 </html>
