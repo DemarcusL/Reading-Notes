@@ -16,7 +16,7 @@ I will keep learning new things even if u cant understand the topic like I  do n
 
 Daily Readings
 
-1.
+1.<a href="https://demarcusl.github.io/Reading-Notes/textbooknotes.md">7/19 HTML,CSS, and Javascript Notes</a>
 2.
 3.
 4.
