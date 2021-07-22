@@ -20,7 +20,7 @@ Daily Readings
 <br>
 2.<a href="https://demarcusl.github.io/Reading-Notes/textbooknotes2.md"> 7/20 Javascript Basic and Lists </a>
 <br>
-3.
+3.<a href="https://demarcusl.github.io/Reading-Notes/textbooknotes3.md"> 7/21 Links and Layouts </a>
 4.
 5.
 6.
