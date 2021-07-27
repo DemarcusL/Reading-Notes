@@ -22,16 +22,17 @@ Daily Readings
 <br>
 3.<a href="https://demarcusl.github.io/Reading-Notes/textbooknotes3.md"> 7/21 Links and Layouts </a>
 <br>
-4.<a href="https://demarcusl.github.io/Reading-Notes/textbooknotes4.md"> 7/21 Links and Layouts </a>
+4.<a href="https://demarcusl.github.io/Reading-Notes/textbooknotes4.md"> 7/22 Links and Layouts </a>
 <br>
-5.
-6.
-7.
-8.
-9.
-10.
-11.
-12.
-13.
-14.
-15.
+5.<a href="https://demarcusl.github.io/Reading-Notes/textbooknotes5.md"> 7/23 Understanding Problem Domain </a>
+<br>
+6.<a href="https://demarcusl.github.io/Reading-Notes/textbooknotes6.md"> 7/26 Tables and Domain Models </a>
+<!-- 7.<a href="https://demarcusl.github.io/Reading-Notes/textbooknotes.md">
+8.<a href="https://demarcusl.github.io/Reading-Notes/textbooknotes.md">
+9.<a href="https://demarcusl.github.io/Reading-Notes/textbooknotes.md">
+10.<a href="https://demarcusl.github.io/Reading-Notes/textbooknotes.md">
+11.<a href="https://demarcusl.github.io/Reading-Notes/textbooknotes.md">
+12.<a href="https://demarcusl.github.io/Reading-Notes/textbooknotes.md">
+13.<a href="https://demarcusl.github.io/Reading-Notes/textbooknotes.md">
+14.<a href="https://demarcusl.github.io/Reading-Notes/textbooknotes.md">
+15.<a href="https://demarcusl.github.io/Reading-Notes/textbooknotes.md"> -->
