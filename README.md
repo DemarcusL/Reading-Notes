@@ -16,7 +16,7 @@ I will keep learning new things even if u cant understand the topic like I  do n
 
 Daily Readings
 
-1.<a href="https://demarcusl.github.io/Reading-Notes/textbooknotes.md"> 7/19 HTML,CSS, and Javascript Notes</a>
+1.<a href="https://demarcusl.github.io/Reading-Notes/textbooknotes1.md"> 7/19 HTML,CSS, and Javascript Notes</a>
 <br>
 2.<a href="https://demarcusl.github.io/Reading-Notes/textbooknotes2.md"> 7/20 Javascript Basic and Lists </a>
 <br>
@@ -27,12 +27,22 @@ Daily Readings
 5.<a href="https://demarcusl.github.io/Reading-Notes/textbooknotes5.md"> 7/23 Understanding Problem Domain </a>
 <br>
 6.<a href="https://demarcusl.github.io/Reading-Notes/textbooknotes6.md"> 7/26 Tables and Domain Models </a>
-<!-- 7.<a href="https://demarcusl.github.io/Reading-Notes/textbooknotes.md">
-8.<a href="https://demarcusl.github.io/Reading-Notes/textbooknotes.md">
+<br>
+7.<a href="https://demarcusl.github.io/Reading-Notes/textbooknotes7.md"> 7/27 Layout </a>
+<br>
+<!-- 8.<a href="https://demarcusl.github.io/Reading-Notes/textbooknotes.md">
+<br>
 9.<a href="https://demarcusl.github.io/Reading-Notes/textbooknotes.md">
+<br>
 10.<a href="https://demarcusl.github.io/Reading-Notes/textbooknotes.md">
+<br>
 11.<a href="https://demarcusl.github.io/Reading-Notes/textbooknotes.md">
+<br>
 12.<a href="https://demarcusl.github.io/Reading-Notes/textbooknotes.md">
+<br>
 13.<a href="https://demarcusl.github.io/Reading-Notes/textbooknotes.md">
+<br>
 14.<a href="https://demarcusl.github.io/Reading-Notes/textbooknotes.md">
-15.<a href="https://demarcusl.github.io/Reading-Notes/textbooknotes.md"> -->
+<br>
+15.<a href="https://demarcusl.github.io/Reading-Notes/textbooknotes.md">
+<br> -->
