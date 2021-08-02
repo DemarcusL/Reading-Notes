@@ -30,13 +30,13 @@ Daily Readings
 <br>
 7.<a href="https://demarcusl.github.io/Reading-Notes/textbooknotes7.md"> 7/27 Layout </a>
 <br>
-<!-- 8.<a href="https://demarcusl.github.io/Reading-Notes/textbooknotes.md">
+8.<a href="https://demarcusl.github.io/Reading-Notes/textbooknotes8.md"> 7/28 Forms </a>
 <br>
-9.<a href="https://demarcusl.github.io/Reading-Notes/textbooknotes.md">
+9.<a href="https://demarcusl.github.io/Reading-Notes/textbooknotes9.md"> 7/29 Debugging Your Code </a>
 <br>
-10.<a href="https://demarcusl.github.io/Reading-Notes/textbooknotes.md">
+10.<a href="https://demarcusl.github.io/Reading-Notes/textbooknotes10.md"> 7/30 </a>
 <br>
-11.<a href="https://demarcusl.github.io/Reading-Notes/textbooknotes.md">
+11.<a href="https://demarcusl.github.io/Reading-Notes/textbooknotes11.md"> 8/2 Images and Practical Knowledge </a>
 <br>
 12.<a href="https://demarcusl.github.io/Reading-Notes/textbooknotes.md">
 <br>
@@ -45,4 +45,4 @@ Daily Readings
 14.<a href="https://demarcusl.github.io/Reading-Notes/textbooknotes.md">
 <br>
 15.<a href="https://demarcusl.github.io/Reading-Notes/textbooknotes.md">
-<br> -->
+<br>
