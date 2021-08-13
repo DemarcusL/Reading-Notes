@@ -40,9 +40,9 @@ Daily Readings
 <br>
 12.<a href="https://demarcusl.github.io/Reading-Notes/textbooknotes12.md"> Local Storage ! </a>
 <br>
-13.<a href="https://demarcusl.github.io/Reading-Notes/textbooknotes.md">
+13.<a href="https://demarcusl.github.io/Reading-Notes/textbooknotes13A.md"> CSS, Transforms, and Animations </a>
 <br>
-14.<a href="https://demarcusl.github.io/Reading-Notes/textbooknotes.md">
+14.<a href="https://demarcusl.github.io/Reading-Notes/textbooknotes13B.md"> What google learned ! </a>
 <br>
 15.<a href="https://demarcusl.github.io/Reading-Notes/textbooknotes.md">
 <br>
