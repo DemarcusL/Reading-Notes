@@ -34,11 +34,11 @@ Daily Readings
 <br>
 9.<a href="https://demarcusl.github.io/Reading-Notes/textbooknotes9.md"> 7/29 Debugging Your Code </a>
 <br>
-10.<a href="https://demarcusl.github.io/Reading-Notes/textbooknotes10.md"> 7/30 </a>
+10.<a href="https://demarcusl.github.io/Reading-Notes/textbooknotes10.md"> 7/30 Images and Practical Knowledge </a>
 <br>
-11.<a href="https://demarcusl.github.io/Reading-Notes/textbooknotes11.md"> 8/2 Images and Practical Knowledge </a>
+11.<a href="https://demarcusl.github.io/Reading-Notes/textbooknotes11.md"> Charts </a>
 <br>
-12.<a href="https://demarcusl.github.io/Reading-Notes/textbooknotes.md">
+12.<a href="https://demarcusl.github.io/Reading-Notes/textbooknotes12.md"> Local Storage ! </a>
 <br>
 13.<a href="https://demarcusl.github.io/Reading-Notes/textbooknotes.md">
 <br>
